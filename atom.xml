@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://srd3007.github.io/Roco-Team-maintenance-logs/</id>
+    <title>Roco - Team 运维记录</title>
+    <updated>2022-08-09T03:28:35.203Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://srd3007.github.io/Roco-Team-maintenance-logs/"/>
+    <link rel="self" href="https://srd3007.github.io/Roco-Team-maintenance-logs/atom.xml"/>
+    <subtitle>没有翻过车的网站  不算好网站(?)</subtitle>
+    <logo>https://srd3007.github.io/Roco-Team-maintenance-logs/images/avatar.png</logo>
+    <icon>https://srd3007.github.io/Roco-Team-maintenance-logs/favicon.ico</icon>
+    <rights>All rights reserved 2022, Roco - Team 运维记录</rights>
+    <entry>
+        <title type="html"><![CDATA[ruau.cc迁移服务器, 新增pages功能]]></title>
+        <id>https://srd3007.github.io/Roco-Team-maintenance-logs/post/ruaucc-qian-yi-fu-wu-qi-xin-zeng-pages-gong-neng/</id>
+        <link href="https://srd3007.github.io/Roco-Team-maintenance-logs/post/ruaucc-qian-yi-fu-wu-qi-xin-zeng-pages-gong-neng/">
+        </link>
+        <updated>2022-08-09T03:00:26.000Z</updated>
+        <content type="html"><![CDATA[<p>2022年8月8日， ruau.cc从cloudflare-pages迁到和blog一样的服务器上<br>
+并增加了Pages与加密功能， 取代pages.roco.work<br>
+同时， 正式停止roco2.tk与gotos.ml的短链接服务<br>
+<img src="https://srd3007.github.io/Roco-Team-maintenance-logs//post-images/1660015602238.jpg" alt="" loading="lazy"><br>
+<img src="https://srd3007.github.io/Roco-Team-maintenance-logs//post-images/1660015619239.png" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
